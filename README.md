@@ -1,6 +1,6 @@
 # Olá, eu sou Diego Soares
 :mortar_board: Formado em análise e desenvolvimento de sistemas <br>
-:dart: Foco no Front-End <br>
+:dart: Foco no aperfeiçoamento profissional<br>
 :rocket: Em transição de carreira
 
 ## Ferramentas e tecnologias:
